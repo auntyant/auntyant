@@ -128,9 +128,6 @@ Campaign Design
    ↓
 Ongoing Creative Direction
 
-The objective is not to create isolated visuals.
-
-The objective is to create one connected creative system.
 
 🖼 Selected Creative Work
 01 — Modern Lifestyle Identity
@@ -346,53 +343,7 @@ Personality
 
 A strong identity communicates emotion and character.
 
-🎯 Our Creative Philosophy
-Strategy before decoration.
 
-Clarity before complexity.
-
-Consistency before trends.
-
-Recognition before novelty.
-
-Purpose behind every visual decision.
-💡 Why Auntyant Creative
-<table> <tr> <td width="50%" valign="top">
-Distinctive Visual Thinking
-
-We aim to create work that feels specific to the brand rather than generic or interchangeable.
-
-</td> <td width="50%" valign="top">
-Brand Consistency
-
-Every creative element is designed to work as part of a larger visual system.
-
-</td> </tr> <tr> <td width="50%" valign="top">
-Modern Presentation
-
-Our design approach focuses on clean, contemporary and polished visual communication.
-
-</td> <td width="50%" valign="top">
-Practical Creative Systems
-
-Design should be usable after the project ends.
-
-Templates and systems make future content easier to maintain.
-
-</td> </tr> </table>
-🛠 Creative & Digital Stack
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-</div>
 📊 Studio Focus
 Brand Identity          ████████████████████
 Graphic Design          ████████████████████
@@ -491,22 +442,3 @@ We build visual systems that help brands become recognizable.
 A good creative system gives a brand structure.
 
 A great creative system gives it personality.
-
-📬 Start a Creative Project
-
-Have an idea, brand, campaign or visual identity that needs stronger creative direction?
-
-<div align="center">
-
-</div>
-🌐 Connect With Auntyant Creative
-<div align="center">
-
-</div>
-<div align="center">
-Auntyant Creative
-Creative work that makes brands impossible to ignore.
-
-Branding • Graphic Design • Visual Content • Social Media • Creative Direction
-
-</div> ```
