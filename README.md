@@ -1,8 +1,6 @@
----
-
 # ✨ The Auntyant Creative Experience
 
-Auntyant Creative is built around one idea:
+**Auntyant Creative** is built around one idea:
 
 > **A brand should not only look good — it should feel recognizable, intentional and impossible to confuse with anyone else.**
 
