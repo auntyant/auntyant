@@ -4,27 +4,27 @@
 
 ### Branding • Graphic Design • Visual Content • Social Media
 
-**Bold visual identities for modern brands.**
+**A modern creative studio building bold identities, polished visual systems and memorable content for brands that want to stand out.**
 
 [![Website](https://img.shields.io/badge/Website-Visit%20Auntyant%20Creative-8b6cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auntyant.github.io/auntyant-creative-website/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Creative%20Work-ff7a6e?style=for-the-badge&logo=behance&logoColor=white)](https://auntyant.github.io/auntyant-creative-website/portfolio.html)
-[![GitHub](https://img.shields.io/badge/GitHub-auntyant-1f1a24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auntyant)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Selected%20Work-ff7a6e?style=for-the-badge&logo=behance&logoColor=white)](https://auntyant.github.io/auntyant-creative-website/portfolio.html)
+[![GitHub](https://img.shields.io/badge/GitHub-auntyant-181717?style=for-the-badge&logo=github)](https://github.com/auntyant)
 
 </div>
 
 ---
 
-## ✦ Creative Studio
+## ✦ About Auntyant Creative
 
-**Auntyant Creative** is a branding and visual design studio focused on helping modern brands look more distinctive, consistent and memorable.
+**Auntyant Creative** is a visual design studio focused on helping modern brands build stronger, more recognizable identities.
 
-We create visual identities, graphic systems, social media content and campaign design with a balance of **strategy, personality and strong visual execution**.
+We create visual systems that combine **strategy, creativity and consistency**, from the first logo concept to full campaign and social media execution.
 
-> **Creative work that makes brands impossible to ignore.**
+> **Creative work should not only look good — it should make a brand easier to remember.**
 
 ---
 
-## What We Create
+## 🎨 Creative Capabilities
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ We create visual identities, graphic systems, social media content and campaign 
 
 ### ✦ Brand Identity
 
-Logo systems, typography, color palettes, visual language and brand guidelines.
+Logo systems, typography, color palettes, visual language and brand guidelines designed to create strong recognition.
 
 </td>
 
@@ -40,7 +40,7 @@ Logo systems, typography, color palettes, visual language and brand guidelines.
 
 ### ◫ Graphic Design
 
-Campaign graphics, layouts, digital assets and polished marketing materials.
+Campaign visuals, layouts, presentations, marketing materials and branded digital assets.
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ Campaign graphics, layouts, digital assets and polished marketing materials.
 
 ### ◎ Social Media Content
 
-Post systems, stories, launch graphics and ongoing visual content for social platforms.
+Post systems, story graphics, launch campaigns and visual content designed for consistent social presence.
 
 </td>
 
@@ -58,7 +58,25 @@ Post systems, stories, launch graphics and ongoing visual content for social pla
 
 ### ✺ Creative Direction
 
-Visual direction for campaigns, launches, content systems and brand communication.
+Visual direction for campaigns, launches, brand communication and ongoing creative systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◇ Content Design
+
+Branded visual content for websites, campaigns, social channels and digital experiences.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ↻ Brand Refresh
+
+Modernizing existing identities while preserving the visual elements that already work.
 
 </td>
 </tr>
@@ -66,10 +84,11 @@ Visual direction for campaigns, launches, content systems and brand communicatio
 
 ---
 
-## Our Creative Approach
+## 🌈 Creative Style
 
 ```text
-DISCOVER  → Understand the brand, audience and objective
-DEFINE    → Build the visual direction and creative language
-DESIGN    → Create the identity, campaign or content system
-DELIVER   → Prepare polished assets ready for real use
+Bold Identity        → Distinct and memorable
+Visual Consistency   → One clear brand language
+Modern Design        → Clean and contemporary
+Creative Direction   → Strategy behind every visual
+Content Systems      → Designed to scale
