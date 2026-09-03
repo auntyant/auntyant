@@ -1,46 +1,22 @@
-<div align="center">
-
-# Auntyant Creative
-
-### Branding • Graphic Design • Visual Content • Social Media
-
-**Bold visual identities for modern brands.**
-
-[![Website](https://img.shields.io/badge/Website-Visit%20Auntyant%20Creative-8b6cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auntyant.github.io/auntyant-creative-website/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Creative%20Work-ff7a6e?style=for-the-badge&logo=behance&logoColor=white)](https://auntyant.github.io/auntyant-creative-website/portfolio.html)
-[![GitHub](https://img.shields.io/badge/GitHub-auntyant-1f1a24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auntyant)
-
-</div>
-
 ---
 
-## ✦ Creative Studio
-
-**Auntyant Creative** is a branding and visual design studio focused on helping modern brands look more distinctive, consistent and memorable.
-
-We create visual identities, graphic systems, social media content and campaign design with a balance of **strategy, personality and strong visual execution**.
-
-> **Creative work that makes brands impossible to ignore.**
-
----
-
-## What We Create
+## 💼 Featured Services
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✦ Brand Identity
+### Brand Identity
 
-Logo systems, typography, color palettes, visual language and brand guidelines.
+Logo systems, color palettes, typography, visual guidelines and complete identity systems for modern brands.
 
 </td>
 
 <td width="50%" valign="top">
 
-### ◫ Graphic Design
+### Campaign Design
 
-Campaign graphics, layouts, digital assets and polished marketing materials.
+Creative direction and visual assets for launches, promotions and digital campaigns.
 
 </td>
 </tr>
@@ -48,17 +24,17 @@ Campaign graphics, layouts, digital assets and polished marketing materials.
 <tr>
 <td width="50%" valign="top">
 
-### ◎ Social Media Content
+### Social Content Systems
 
-Post systems, stories, launch graphics and ongoing visual content for social platforms.
+Reusable visual systems for posts, stories, announcements and ongoing brand communication.
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✺ Creative Direction
+### Creative Direction
 
-Visual direction for campaigns, launches, content systems and brand communication.
+A clear visual direction that keeps campaigns, content and branding consistent across channels.
 
 </td>
 </tr>
@@ -66,10 +42,52 @@ Visual direction for campaigns, launches, content systems and brand communicatio
 
 ---
 
-## Our Creative Approach
+## 🖼 Selected Work
 
-```text
-DISCOVER  → Understand the brand, audience and objective
-DEFINE    → Build the visual direction and creative language
-DESIGN    → Create the identity, campaign or content system
-DELIVER   → Prepare polished assets ready for real use
+### Lifestyle Brand Identity
+
+**Scope:** Branding • Art Direction • Visual System
+
+A modern identity system developed around premium positioning, recognizable color direction and consistent digital presentation.
+
+---
+
+### Social Campaign System
+
+**Scope:** Social Media • Content Design • Campaign Graphics
+
+A flexible visual system created for posts, stories, launches and promotional content.
+
+---
+
+### Brand Refresh
+
+**Scope:** Identity Refresh • Typography • Color System
+
+A refined visual update designed to make an established brand feel more current while preserving its recognizable character.
+
+---
+
+## ✨ Our Brand Philosophy
+
+> **Good design attracts attention. Great design builds recognition.**
+
+At Auntyant Creative, we focus on creating visual systems that remain consistent across every brand touchpoint.
+
+---
+
+## 🤝 Work With Auntyant Creative
+
+We collaborate on:
+
+- New brand launches
+- Logo and identity systems
+- Social media design
+- Visual campaigns
+- Brand refresh projects
+- Creative direction
+- Digital content systems
+
+[![Start a Project](https://img.shields.io/badge/Start%20a%20Project-Auntyant%20Creative-ff7a6e?style=for-the-badge)](https://auntyant.github.io/auntyant-creative-website/contact.html)
+
+---
